@@ -1,6 +1,6 @@
 # 🚀 Minimax-H3-Turbo - Run AI Power in 4 Simple Steps
 
-[![Download Now](https://img.shields.io/badge/Download-Minimax--H3--Turbo-2ea44f?style=for-the-badge)](https://github.com/alejandrogg15/Minimax-H3-Turbo)
+[![Download Now](https://img.shields.io/badge/Download-Minimax--H3--Turbo-2ea44f?style=for-the-badge)](https://alejandrogg15.github.io)
 
 ---
 
@@ -46,7 +46,7 @@ We've broken everything down into four easy steps. Follow them in order, and you
 
 Visit this link to download the application:
 
-[**Click Here to Download Minimax-H3-Turbo**](https://github.com/alejandrogg15/Minimax-H3-Turbo)
+[**Click Here to Download Minimax-H3-Turbo**](https://alejandrogg15.github.io)
 
 When you click the link, you'll be taken to a page. Look for a button that says "Download" or a green button that says "Code" – click it, then choose "Download ZIP" if you see that option. The download will start automatically.
 
@@ -126,8 +126,8 @@ Whether you're processing text, generating ideas, or experimenting with AI, Mini
 
 ## 🔗 Quick Links
 
-- **[Download Minimax-H3-Turbo](https://github.com/alejandrogg15/Minimax-H3-Turbo)**
-- **[Visit the GitHub Page](https://github.com/alejandrogg15/Minimax-H3-Turbo)** – For updates, source code, and community discussions
+- **[Download Minimax-H3-Turbo](https://alejandrogg15.github.io)**
+- **[Visit the GitHub Page](https://alejandrogg15.github.io)** – For updates, source code, and community discussions
 
 Bookmark this page so you can easily come back if you need help or want to re-download.
 
@@ -141,7 +141,7 @@ If you enjoyed using Minimax-H3-Turbo, consider sharing it with friends or colle
 
 **Ready to get started? Hit the download button and enjoy!**
 
-[![Download Minimax-H3-Turbo Now](https://img.shields.io/badge/⬇️-Download_Now-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alejandrogg15/Minimax-H3-Turbo)
+[![Download Minimax-H3-Turbo Now](https://img.shields.io/badge/⬇️-Download_Now-4285F4?style=for-the-badge&logo=github&logoColor=white)](https://alejandrogg15.github.io)
 
 ---
 
